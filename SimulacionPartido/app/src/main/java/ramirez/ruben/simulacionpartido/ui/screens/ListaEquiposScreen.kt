@@ -31,7 +31,6 @@ import ramirez.ruben.simulacionpartido.viewmodel.EquipoViewModel
 
 @Composable
 fun ListaEquiposScreen(viewModel: EquipoViewModel, onNavigationDetail: (id: Int) -> Unit) {
-
     LazyVerticalGrid(
         columns = GridCells.Fixed(3),
         contentPadding = PaddingValues(horizontal = 5.dp, 20.dp),
