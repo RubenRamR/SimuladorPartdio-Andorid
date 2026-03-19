@@ -1,0 +1,1 @@
+# SimuladorPartdio-Andorid
